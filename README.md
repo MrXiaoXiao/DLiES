@@ -1,2 +1,2 @@
 # DLiES
-Deep Learning in Earth Science Lectures drafts
+Deep Learning in Earth Science Lectures
